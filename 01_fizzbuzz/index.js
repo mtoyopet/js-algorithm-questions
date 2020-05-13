@@ -1,6 +1,6 @@
 // --- 問題
-// 整数1からn回の間、値が出力される関数fizzBuzzを完成させよ。
-// 3の倍数の時は'fizz'、5の倍数の時は'buzz'、３と5の倍数の時は'fizzbuzz'、それ以外は数字を出力されること
+// 1からn回の間、値が出力される関数fizzBuzzを完成させよ
+// 3の倍数の時は'fizz'、5の倍数の時は'buzz'、３と5の倍数の時は'fizzbuzz'、それ以外は数字を出力
 
 // --- 例
 //   fizzBuzz(5);
@@ -11,7 +11,7 @@
 //   buzz
 
 function fizzBuzz(n) {
-// ここに書く
+　// ここに書く
 }
 
 module.exports = fizzBuzz;
