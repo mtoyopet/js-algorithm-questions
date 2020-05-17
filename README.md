@@ -1,9 +1,19 @@
-JESTをインストール
+
+1. 下記にアクセス
 ```
-npm install --save-dev jest
+https://gitpod.io/#https://github.com/mtoyopet/js-algorithm-questions
+```
+または
+```
+git clone git@github.com:mtoyopet/js-algorithm-questions.git
 ```
 
-JESTを実行する
+2. JESTをインストール
+```
+npm install -g jest
+```
+
+3. JESTを実行する
 ```
 jest <ファイル名>
 ```
