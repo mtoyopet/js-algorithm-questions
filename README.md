@@ -11,6 +11,8 @@ git clone https://github.com/mtoyopet/js-algorithm-questions.git
 ```
 
 ## 2. JESTをインストール
+Jestとは、JavaScriptのテストツールです
+
 ```
 npm install -g jest
 ```
