@@ -3,7 +3,7 @@
 
 #### 1-1. gitpod(オンラインIDE)で利用する場合
 1. [こちらにアクセスしてください](https://gitpod.io/#https://github.com/mtoyopet/js-algorithm-questions)
-2. gitpodのアカウントが必要ですが、Githubのアカウントと連携して作成できます。
+2. 初めてgitpodを使用する場合はgitpodのアカウント作成画面が出るので作成をお願いします。(Githubのアカウントと連携して作成できます。)
 
 #### 1-2. レポジトリをクローンしてローカルで利用する場合
 ```
