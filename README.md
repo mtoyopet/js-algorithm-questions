@@ -32,6 +32,8 @@ jest <ファイル名>
 jest 01_fizzbuzz/test.js
 ```
 
+JESTを実行した結果サンプル
+
 ```
 gitpod /workspace/js-algorithm-questions $ jest 03_reverseInt/test.js
  PASS  03_reverseInt/test.js
