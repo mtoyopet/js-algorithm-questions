@@ -17,7 +17,12 @@ Jestとは、JavaScriptのテストツールです
 npm install -g jest
 ```
 
-## 3. JESTを実行する
+## 3. JESTがインストールされているかチェック
+```
+jest -v
+```
+
+## 4. JESTを実行する
 ```
 jest <ファイル名>
 ```
