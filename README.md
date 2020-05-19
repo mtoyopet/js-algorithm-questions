@@ -1,9 +1,13 @@
 
 ### 1. 下記にアクセス
+
+## 1-1. gitpodで利用する場合
+gitpotのアカウントが必要ですが、Githubのアカウントと連携して作成できます。
 ```
 https://gitpod.io/#https://github.com/mtoyopet/js-algorithm-questions
 ```
-またはレポジトリをクローン
+
+## 1-2. レポジトリをクローンしてローカルで利用する場合
 ```
 git clone git@github.com:mtoyopet/js-algorithm-questions.git
 ```
