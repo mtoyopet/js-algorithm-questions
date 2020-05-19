@@ -1,11 +1,9 @@
 
 ## 1. 下記どちらかの方法で利用します
 
-#### 1-1. gitpodで利用する場合
-gitpotのアカウントが必要ですが、Githubのアカウントと連携して作成できます。
-```
-https://gitpod.io/#https://github.com/mtoyopet/js-algorithm-questions
-```
+#### 1-1. gitpod(オンラインIDE)で利用する場合
+1. [こちらにアクセスしてください](https://gitpod.io/#https://github.com/mtoyopet/js-algorithm-questions)
+2. gitpodのアカウントが必要ですが、Githubのアカウントと連携して作成できます。
 
 #### 1-2. レポジトリをクローンしてローカルで利用する場合
 ```
