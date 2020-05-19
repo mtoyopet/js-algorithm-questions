@@ -7,7 +7,7 @@
 
 #### 1-2. レポジトリをクローンしてローカルで利用する場合
 ```
-git clone git@github.com:mtoyopet/js-algorithm-questions.git
+git clone https://github.com/mtoyopet/js-algorithm-questions.git
 ```
 
 ## 2. JESTをインストール
