@@ -8,7 +8,7 @@ jest -v
 
 ## JESTを実行する
 ```
-jest <ファイル名>
+jest <ディレクトリ>/test.js
 ```
 
 例
