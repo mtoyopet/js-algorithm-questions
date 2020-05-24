@@ -1,16 +1,17 @@
 // --- 問題
-// 1からn回の間、"こんにちは、これはサンプルです" を出力する
+// 引数a、よりも引数bの値が大きければtrue、小さければfalseを返す
 
 // --- 例
-// "こんにちは、これはサンプルです"
-// "こんにちは、これはサンプルです"
-// "こんにちは、これはサンプルです"
-// "こんにちは、これはサンプルです"
+// sample(2, 3) -> true
+// sample(15, 2) -> false
 
-function sample(n) {
-  for (let i = 1; i <= n; i++) {
-    console.log("こんにちは、これはサンプルです")
-  }
+// -- JESTを実行するコマンド
+// jest 00_sample/test.js
+
+function sample(a, b) {
+  // if (a < b) { return true }
+
+  // return false
 }
 
 module.exports = sample;
