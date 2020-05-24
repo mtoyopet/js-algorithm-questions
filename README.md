@@ -1,8 +1,4 @@
 
-## Gitpodを利用します
-1. [こちらにアクセスしてください](https://gitpod.io/#https://github.com/mtoyopet/js-algorithm-questions)
-2. 初めてgitpodを使用する場合はgitpodのアカウント作成画面が出るので作成をお願いします。(Githubのアカウントと連携して作成できます。)
-
 ## JESTがインストールされているかチェック
 ```
 jest -v
