@@ -13,12 +13,12 @@ jest -v
 jest <ディレクトリ>/test.js
 ```
 
-例
+*例*
 ```
 jest 01_fizzbuzz/test.js
 ```
 
-JESTを実行した結果サンプル
+*JESTを実行した結果サンプル*
 
 ```
 gitpod /workspace/js-algorithm-questions $ jest 03_reverseInt/test.js
