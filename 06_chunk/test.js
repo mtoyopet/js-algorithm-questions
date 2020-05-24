@@ -1,9 +1,5 @@
 const chunk = require('./index');
 
-test('chunkが定義されている', () => {
-  expect(typeof chunk).toEqual('function');
-});
-
 test('10個の要素をサイズ2の配列に分割する', () => {
   const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
   const chunked = chunk(arr, 2);

@@ -1,9 +1,5 @@
 const fizzBuzz = require('./index');
 
-test('fizzBuzz関数が定義されている', () => {
-  expect(fizzBuzz).toBeDefined();
-});
-
 test('５の時は、５回ログに表示される', () => {
   fizzBuzz(5);
 

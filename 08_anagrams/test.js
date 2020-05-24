@@ -1,9 +1,5 @@
 const anagrams = require('./index.js');
 
-test('anagrams関数が定義されている', () => {
-  expect(typeof anagrams).toEqual('function');
-});
-
 test('"hello"は"llohe"のアナグラムである', () => {
   expect(anagrams('hello', 'llohe')).toBeTruthy();
 });

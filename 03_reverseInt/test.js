@@ -1,9 +1,5 @@
 const reverseInt = require('./index');
 
-test('ReverseInt関数が定義されている', () => {
-  expect(reverseInt).toBeDefined();
-});
-
 test('0の時は0を返す', () => {
   expect(reverseInt(0)).toEqual(0);
 });

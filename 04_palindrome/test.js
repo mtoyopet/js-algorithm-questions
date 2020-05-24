@@ -1,9 +1,5 @@
 const palindrome = require('./index');
 
-test('palindrome関数が定義されている', () => {
-  expect(typeof palindrome).toEqual('function');
-});
-
 test('"aba"の時はtrueを返す', () => {
   expect(palindrome('aba')).toBeTruthy();
 });

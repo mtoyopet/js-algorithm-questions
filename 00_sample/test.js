@@ -1,9 +1,5 @@
 const sample = require('./index');
 
-test('sample関数が定義されている', () => {
-  expect(sample).toBeDefined();
-});
-
 test('aがbよりも小さい', () => {
   expect(sample(1, 2)).toBeTruthy();
 });

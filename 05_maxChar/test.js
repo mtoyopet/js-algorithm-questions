@@ -1,9 +1,5 @@
 const maxChar = require('./index');
 
-test('maxChar関数が定義されている', () => {
-  expect(typeof maxChar).toEqual('function');
-});
-
 test('最も使用されている文字を返す', () => {
   expect(maxChar('a')).toEqual('a');
   expect(maxChar('abcdefghijklmnaaaaa')).toEqual('a');
