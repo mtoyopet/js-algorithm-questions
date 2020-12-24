@@ -3,11 +3,6 @@
 - 自分の書いたプログラムで、意図した値や結果が返ってくるかチェックしてくれる
 - [ユニットテストツール「Jest」の使い方](https://www.wakuwakubank.com/posts/525-javascript-jest/)
 
-## JESTがインストールされているかチェック
-```
-jest -v
-```
-
 ## JESTを実行する
 ```
 jest <ディレクトリ>/test.js
