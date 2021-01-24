@@ -10,7 +10,7 @@ jest <ディレクトリ>/test.js
 
 *例*
 ```
-jest 01_fizzbuzz/test.js
+jest sample_question/test.js
 ```
 
 *JESTを実行した結果サンプル*

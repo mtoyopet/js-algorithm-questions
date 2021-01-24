@@ -9,9 +9,7 @@
 // jest sample_question/test.js
 
 function sample(a, b) {
-  // if (a < b) { return true }
-
-  // return false
+  // return a < b
 }
 
 module.exports = sample;
